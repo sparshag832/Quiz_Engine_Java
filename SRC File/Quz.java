@@ -158,7 +158,7 @@ try {
 				else 	if(rdbtnop4.isSelected())
 					youranswer=rdbtnop4.getText();
 				
-				if(youranswer.equals(currentQuestion.getCr()));
+				if(youranswer.equals(currentQuestion.getCr()))
 				{
 				System.out.println(youranswer);
 				score++;
